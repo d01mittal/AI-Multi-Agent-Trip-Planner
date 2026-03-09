@@ -21,30 +21,30 @@ The app generates detailed itineraries with PDFs and real-time travel insights.
 ## 🖼️ Screenshots
 
 ### Workflow Diagram
-![Workflow](Demo Images/agent.png)
+![Workflow](https://github.com/d01mittal/AI-Multi-Agent-Trip-Planner/blob/main/Demo%20Images/agent.png)
 
 ## 🖼️ Screenshots
 
 ### App UI
 
 <p align="center">
-  <img src="https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(403).png" width="45%">
-  <img src="https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(404).png" width="45%">
+  <img src="https://github.com/d01mittal/AI-Multi-Agent-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(403).png" width="45%">
+  <img src="https://github.com/d01mittal/AI-Multi-Agent-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(404).png" width="45%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(405).png" width="45%">
-  <img src="https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(407).png" width="45%">
+  <img src="https://github.com/d01mittal/AI-Multi-Agent-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(405).png" width="45%">
+  <img src="https://github.com/d01mittal/AI-Multi-Agent-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(407).png" width="45%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(408).png" width="45%">
-  <img src="https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(409).png" width="45%">
+  <img src="https://github.com/d01mittal/AI-Multi-Agent-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(408).png" width="45%">
+  <img src="https://github.com/d01mittal/AI-Multi-Agent-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(409).png" width="45%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(411).png" width="45%">
-  <img src="https://github.com/ManaswiniGupta/MultiAgent-AI-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(412).png" width="45%">
+  <img src="https://github.com/d01mittal/AI-Multi-Agent-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(411).png" width="45%">
+  <img src="https://github.com/d01mittal/AI-Multi-Agent-Trip-Planner/blob/main/Demo%20Images/Screenshot%20(412).png" width="45%">
 </p>
 
 
@@ -147,11 +147,6 @@ flowchart TD
 * Double-check API keys in both `.env` and `.streamlit/secrets.toml`.  
 * For Gmail email sending, enable **App Passwords** (not your main password).  
 * If Streamlit UI resets, use **session state** properly to persist form data.  
-
----
-
-## 📜 License
-MIT License – free to use and modify.  
 
 ---
 
